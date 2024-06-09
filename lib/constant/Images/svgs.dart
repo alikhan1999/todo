@@ -1,0 +1,43 @@
+import 'package:flutter_svg/flutter_svg.dart';
+
+class SvgAssets {
+  static final downBtn = SvgPicture.asset('assets/svgs/down_btn.svg');
+  static final chatBubble = SvgPicture.asset('assets/svgs/chat_bubble.svg');
+  static final notificationIcon = SvgPicture.asset('assets/svgs/notification_icon.svg');
+  static final search = SvgPicture.asset('assets/icons/searchIcon.svg');
+  static final therapyIcon = SvgPicture.asset('assets/svgs/therapyIcon.svg');
+  static final gradientClock = SvgPicture.asset('assets/svgs/gradient_clock_icon.svg');
+  static final uploadPaper = SvgPicture.asset('assets/svgs/upload_paper.svg');
+  static final withdrawalIcon = SvgPicture.asset('assets/svgs/withdrawal_icon.svg');
+  static final locationIcon = SvgPicture.asset('assets/svgs/location.svg');
+  static final clockIcon = SvgPicture.asset('assets/svgs/clock_icon.svg');
+  static final coinIcon = SvgPicture.asset('assets/svgs/coin.svg');
+  static final affirmationIcon = SvgPicture.asset('assets/svgs/affirmation_icon.svg');
+  static final successEmoji = SvgPicture.asset('assets/svgs/success_emoji.svg');
+  static final sadEmoji = SvgPicture.asset('assets/svgs/sad_emoji.svg');
+  static final toDoBoard = SvgPicture.asset('assets/svgs/to-do.svg');
+  static final toDoList = SvgPicture.asset('assets/svgs/to-do-list.svg');
+  static final phoneIcon = SvgPicture.asset('assets/svgs/phoneIcon.svg');
+  static final floatingLocationIcon = SvgPicture.asset('assets/svgs/floating_location_icon.svg');
+  static final emailIcon = SvgPicture.asset('assets/svgs/emailIcon.svg');
+  static final videoCamera = SvgPicture.asset('assets/svgs/video_camera.svg');
+  static final sendIcon = SvgPicture.asset('assets/svgs/send_btn.svg');
+  static final chatIcon = SvgPicture.asset('assets/svgs/chatIcon.svg');
+  static final settingIcon = SvgPicture.asset('assets/svgs/settingIcon.svg');
+  static final calendarIcon = SvgPicture.asset('assets/svgs/calendar.svg');
+  static final analyticIcon = SvgPicture.asset('assets/svgs/analayticsIcon.svg');
+  static final quotes = SvgPicture.asset('assets/svgs/quote.svg');
+  static final addIcon = SvgPicture.asset('assets/svgs/add_icon.svg');
+  static final editIcon = SvgPicture.asset('assets/svgs/edit_icon.svg');
+  static final key = SvgPicture.asset('assets/svgs/key.svg');
+  static final dingDongBell = SvgPicture.asset('assets/svgs/dingdongbell.svg');
+  static final wallet = SvgPicture.asset('assets/svgs/wallet.svg');
+  static final earth = SvgPicture.asset('assets/svgs/earth.svg');
+  static final delete = SvgPicture.asset('assets/svgs/delete_icon.svg');
+  static final chip = SvgPicture.asset('assets/svgs/chip.svg');
+  static final mastercardName = SvgPicture.asset('assets/svgs/mastercard_name.svg');
+  static final cardScan = SvgPicture.asset('assets/svgs/card_scan.svg');
+  static final mobilePayment = SvgPicture.asset('assets/icons/mobile_payment.svg');
+  static final dollar = SvgPicture.asset('assets/icons/dollar.svg', width: 18.0, height: 18.0);
+  static final noItem = SvgPicture.asset('assets/icons/no_item.svg');
+}
